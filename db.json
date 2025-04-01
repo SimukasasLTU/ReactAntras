@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "test",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "username": "jonas",
+      "password": "labas"
+    },
+    {
+      "id": "3574",
+      "username": "1",
+      "password": "1"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "1",
+      "userId": "1",
+      "recipeId": 3
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "recipeId": 5
+    },
+    {
+      "id": "224e",
+      "userId": "3574",
+      "recipeId": 3
+    },
+    {
+      "id": "290b",
+      "userId": "3574",
+      "recipeId": 1
+    }
+  ]
+}
